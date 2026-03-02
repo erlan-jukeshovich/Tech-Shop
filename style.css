@@ -26,15 +26,20 @@ h1 {
 
 .card {
   min-width: 0;
-  background-color: #2531a5;
+  background-color: #10175a;
   color: #fff;
   border-radius: 16px;
   padding: 15px;
   overflow: hidden;
+  transition: transform .3s ease;
+}
+
+.card:hover {
+  transform: scale(1.03);
 }
 
 .card button {
-  background: #0f0;
+  background: rgb(0, 255, 0);
   color: black;
   border: none;
   padding: 10px;

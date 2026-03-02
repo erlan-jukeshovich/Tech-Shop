@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "title": "Apple iPhone 17 Pro Max",
+    "alt": "Apple iPhone 17 Pro Max в оранжевом цвете",
+    "description": "Обновление «профессиональной» линейки iPhone 2025 года. Новый дизайн, ещё больше вычислительной мощности",
+    "price": 120990,
+    "image": "/images/iphone-17-pro-max-orange-color.webp"
+  },
+  {
+    "id": 2,
+    "title": "Sony WH-1000XM6",
+    "alt": "Sony WH-1000XM6 наушники",
+    "description": "Лучшие noise-cancelling наушники 2026 с 40ч автономией и LDAC",
+    "price": 45000,
+    "image": "/images/sony-wh-1000xm6.webp"
+  },
+  {
+    "id": 3,
+    "title": "Sony PS-5",
+    "alt": "Игровая консоль Sony PS-5",
+    "description": "игровая консоль девятого поколения, обеспечивающая запуск современных игр в разрешении 4K при частоте до 120 кадров в секунду",
+    "price": 56999,
+    "image": "/images/sony-ps5.webp"
+  },
+  {
+    "id": 4,
+    "title": "Samsung Galaxy Z TriFold",
+    "alt": "Смартфон Samsung Galaxy Z TriFold",
+    "description": "инновационный смартфон с «тройным» складыванием, оснащенный 10-дюймовым гибким дисплеем, который в разложенном виде превращается в полноценный планшет.",
+    "price": 390000,
+    "image": "/images/samsung-galaxy-z-trifold.webp"
+  },
+  {
+    "id": 5,
+    "title": "Soundcore AeroFit 2 Pro",
+    "alt": "Беспроводные наушники-гибриды Soundcore AeroFit 2 Pro",
+    "description": "Soundcore AeroFit 2 Pro — инновационные беспроводные наушники-гибриды открытого типа, оснащенные регулируемыми заушными дужками и системой активного шумоподавления (ANC) для комфортного прослушивания в любой обстановке.",
+    "price": 19500,
+    "image": "/images/soundcore-aerofit-2-pro.webp"
+  },
+  {
+    "id": 6,
+    "title": "Nintendo Switch 3",
+    "alt": "Портативная консоль Nintendo Switch 3",
+    "description": "следующее поколение консолей Nintendo, которое сохранит гибридный формат, но предложит значительный скачок в производительности, сопоставимый с современными домашними системами.",
+    "price": 60000,
+    "image": "/images/nintendo-switch-3.webp"
+  },
+  {
+    "id": 7,
+    "title": "Razer Project Motoko headphones",
+    "alt": "гарнитура Razer Project Motoko headphones",
+    "description": "флагманская гарнитура, сочетающая футуристичный киберпанк-дизайн с технологией костной проводимости звука и системой тактильной отдачи HyperSense.",
+    "price": 85000,
+    "image": "/images/razer-project-motoko-headphones.webp"
+  },
+  {
+    "id": 8,
+    "title": "GoPro Hero 14",
+    "alt": "флагманская экшн-камера GoPro Hero 14",
+    "description": "флагманская экшн-камера 2025 года, оснащенная новым 1-дюймовым сенсором для съемки в условиях низкой освещенности и поддержкой видеозаписи в разрешении 6K при 60 кадрах в секунду.",
+    "price": 64000,
+    "image": "/images/gopro-hero14-black.webp"
+  }
+]
